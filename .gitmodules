@@ -1,0 +1,6 @@
+[submodule "thirdparty/libharu"]
+	path = thirdparty/libharu
+	url = https://github.com/libharu/libharu
+[submodule "thirdparty/libyaml"]
+	path = thirdparty/libyaml
+	url = https://github.com/yaml/libyaml/
